@@ -1,4 +1,6 @@
 datasets/
+.DS_Store
+__MACOSX/
 results/models/
 results/new_models/
 *.pth

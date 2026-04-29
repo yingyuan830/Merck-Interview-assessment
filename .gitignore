@@ -1,0 +1,10 @@
+datasets/
+results/models/
+results/new_models/
+*.pth
+*.pt
+*.h5
+*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

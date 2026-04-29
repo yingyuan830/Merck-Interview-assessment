@@ -1,8 +1,9 @@
 # Fine-Grained Cell Segmentation using a Pathology Foundation Model
 
 **Author:** Ying Yuan  
-**Role Applied:** Sr. Scientist (Biostatistics) @ Merck  
 **Date:** October 2025
+
+> This project was completed as a pre-interview technical assessment for the Sr. Scientist (Biostatistics) position at Merck.
 
 
 ## Problem
